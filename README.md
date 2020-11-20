@@ -71,4 +71,4 @@ Inform the audience what they going to know after the presentation.
    
    
  # Credits:
- Huge Thank to Professor Winston. [Course](https://www.youtube.com/watch?v=Unzc731iCUY)
+ Huge Thanks to Professor Winston. [Course](https://www.youtube.com/watch?v=Unzc731iCUY)
